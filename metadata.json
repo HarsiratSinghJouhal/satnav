@@ -1,0 +1,8 @@
+{
+  "name": "SatNav v1.1",
+  "description": "A live, GPS-powered crowd heatmap for events at Thapar University's Saturnalia '25 fest.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
